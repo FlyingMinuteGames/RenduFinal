@@ -1,0 +1,99 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/Windows64StandalonePlayer/Managed/UnityEngine.dll"
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_0
+-define:UNITY_4_3
+-define:UNITY_64
+Assets/Core/APowerUp.cs
+Assets/Core/Config.cs
+Assets/Core/Maps.cs
+Assets/Core/Network/Client.cs
+Assets/Core/Network/Opcode.cs
+Assets/Core/Network/OpcodeMgr.cs
+Assets/Core/Network/Packet.cs
+Assets/Core/Network/PacketBuilder.cs
+Assets/Core/Network/Server.cs
+Assets/Core/NetworkHandler/ClientHandler.cs
+Assets/Core/NetworkHandler/ServerHandler.cs
+Assets/Core/ObjectMgr.cs
+Assets/Core/PoolSystem.cs
+Assets/Core/PowerHandlers/AsNeilTaughtMe.cs
+Assets/Core/PowerHandlers/BackToSchool.cs
+Assets/Core/PowerHandlers/BombSquad.cs
+Assets/Core/PowerHandlers/BombUp.cs
+Assets/Core/PowerHandlers/BringASwordToAGF.cs
+Assets/Core/PowerHandlers/FireUp.cs
+Assets/Core/PowerHandlers/ImpenetrableTrinket.cs
+Assets/Core/PowerHandlers/KickItLikeYouMeanIt.cs
+Assets/Core/PowerHandlers/RandomizatronTeleporter.cs
+Assets/Core/PowerHandlers/SpeedUp.cs
+Assets/Core/PowerHandlers/TheHomeRunner.cs
+Assets/Core/PowerHandlers/TheVengefulPhenix.cs
+Assets/Core/ResourcesLoader.cs
+Assets/Core/Tiles.cs
+Assets/Scripts/AIController.cs
+Assets/Scripts/AnimControllerScript.cs
+Assets/Scripts/Announcer.cs
+Assets/Scripts/Async.cs
+Assets/Scripts/BombScript.cs
+Assets/Scripts/BomberController.cs
+Assets/Scripts/BomberControllerOLD.cs
+Assets/Scripts/CPThirdPersonCamera.cs
+Assets/Scripts/CollideTrigger.cs
+Assets/Scripts/Coroutiner.cs
+"Assets/Scripts/GUI Script/ComboBox.cs"
+"Assets/Scripts/GUI Script/EditorMenu.cs"
+"Assets/Scripts/GUI Script/EndMenu.cs"
+"Assets/Scripts/GUI Script/HUD.cs"
+"Assets/Scripts/GUI Script/MainMenuScript.cs"
+"Assets/Scripts/GUI Script/MenuConfig.cs"
+"Assets/Scripts/GUI Script/MenuUtils.cs"
+"Assets/Scripts/GUI Script/PauseMenu.cs"
+"Assets/Scripts/GUI Script/PlayerIntelScript.cs"
+"Assets/Scripts/GUI Script/PopUpScript.cs"
+"Assets/Scripts/GUI Script/TimerScript.cs"
+"Assets/Scripts/GUI Script/VolumeScript.cs"
+Assets/Scripts/GameMgr.cs
+Assets/Scripts/Guid.cs
+Assets/Scripts/MusicPlayer.cs
+Assets/Scripts/NetworkController.cs
+Assets/Scripts/NetworkMgr.cs
+Assets/Scripts/PowerUpGOScript.cs
+Assets/Scripts/SwordCollider.cs
+Assets/Scripts/SwordSwinger.cs
+Assets/Test/Network_TEST.cs
+Assets/Utils/Cross.cs
+Assets/Utils/GuiUtils.cs
+Assets/Utils/IntVector2.cs
+Assets/Utils/UnityUtils.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
